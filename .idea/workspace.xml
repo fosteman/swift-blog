@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa6701c3-e390-4582-9a8b-c1f369498163" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Swift_Articles" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Swift_Articles" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Swift_Articles/Swift-lang Intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Swift_Articles/Swift-lang Intro.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Swift_Articles/Swift-lang Overview.md" beforeDir="false" />
     </list>
@@ -31,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/static/admin/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="21">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -40,7 +44,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/pages/Swift_Articles" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="58159a63-6142-4409-86b1-54f248901616" />
@@ -53,9 +57,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="76" />
+    <option name="y" value="371" />
     <option name="width" value="1239" />
-    <option name="height" value="724" />
+    <option name="height" value="429" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -132,23 +136,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578842350344</updated>
-      <workItem from="1578842355961" duration="168000" />
+      <workItem from="1578842355961" duration="706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168000" />
+    <option name="totallyTimeSpent" value="706000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="76" width="1239" height="724" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="371" width="1239" height="429" extended-state="0" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.90654206" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -178,8 +181,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/static/admin/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="21">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
